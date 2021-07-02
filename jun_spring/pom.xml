@@ -17,7 +17,7 @@
 		<jetty.version>9.2.3.v20140905</jetty.version>
 		<jetty.jsp.version>7.5.4.v20111024</jetty.jsp.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<hamcrest.version>1.3</hamcrest.version>
 		<seleniumhq.version>3.6.0</seleniumhq.version>
 
