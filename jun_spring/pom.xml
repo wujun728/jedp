@@ -63,7 +63,7 @@
 		
 		<jsoup.version>1.11.2</jsoup.version>
 		
-		<xstream.version>1.4.9</xstream.version>
+		<xstream.version>1.4.17</xstream.version>
 		
 		
 		<lucene.version>7.2.0</lucene.version>
